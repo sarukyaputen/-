@@ -1,0 +1,19 @@
+table>tr*3>td*2>{data$}   # 快速鍵 
+
+<table>
+    <tr>
+        <td>data1</td>
+        <td>data2</td>
+    </tr>
+    <tr>
+        <td>data1</td>
+        <td>data2</td>
+    </tr>
+    <tr>
+        <td>data1</td>
+        <td>data2</td>
+    </tr>
+</table>
+
+
+
